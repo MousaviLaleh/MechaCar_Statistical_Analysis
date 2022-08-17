@@ -5,8 +5,9 @@ This project involves the use of statistics and hypothesis testing to analyze a 
 
 ## Resources
 Data Source :&nbsp; [MechaCar_mpg.csv](Resources/MechaCar_mpg.csv),&nbsp; [Suspension_Coil.csv](Resources/Suspension_Coil.csv)
+<br/>
 Software :&nbsp; [RStudio-2022.07.1-554](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download)
-
+<br/>
 
 # Analysis
 
