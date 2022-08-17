@@ -27,5 +27,7 @@ However, when we examine the variance in PSI grouped by each of the three lots i
 ![03.png](Images/03.png)
 
 
+## T-Tests on Suspension Coils
+
 
 
