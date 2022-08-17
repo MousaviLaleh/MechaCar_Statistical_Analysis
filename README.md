@@ -28,6 +28,23 @@ However, when we examine the variance in PSI grouped by each of the three lots i
 
 
 ## T-Tests on Suspension Coils
+T-Test were performed to address questions about PSI as a whole and for each lot. A summary of these questions, their corresponding answers, and images of the R script code and console results are provided for illustration below.
+<br/>
+![04.png](Images/04.png)
+<br/>
+
+From the t-test to compare all lots against the population mean of 1,500 we can see that the sample mean was 1498.78 and the p-value is 0.06028. Although the p-value is low, it is not low enough to reject the null hypothesis that the population's true mean is 1,500 because it did not fall below the significance level of 0.05 (see image below).
+<br/>
+![05.png](Images/05.png)
+
+<br/>
+- For lot 1, the mean was exactly 1,500 and so the p-value was exactly 1. This is a perfect match to the population mean and is therefore not statistically significant as there was no difference between the two.
+- For lot 2, the mean was 1,498.78 with a p-value of 0.06. Although low, this p-value is also not statistically different enough to reject the null hypothesis.
+- lot 3 had a mean of 1,496.14 and a the p-value of 0.04168. Therefore, unlike the other two lots, lot 3 is statistically different from the population mean since its p-value is below 0.05.
+
+
+![06.png](Images/06.png)
+
 
 
 
