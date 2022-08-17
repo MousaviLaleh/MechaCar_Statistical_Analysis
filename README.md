@@ -43,6 +43,7 @@ From the t-test to compare all lots against the population mean of 1,500 we can 
 - Lot3 had a mean of 1,496.14 and a the p-value of 0.04168. Therefore, unlike the other two lots, lot 3 is statistically different from the population mean since its p-value is below 0.05.
 <br/>
 
+
 ![06.png](Images/06.png)
 
 <br/> 
