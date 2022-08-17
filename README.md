@@ -50,7 +50,6 @@ From the t-test to compare all lots against the population mean of 1,500 we can 
 
 ## Study Design: MechaCar vs Competition
 In order to compare the performance of the MechaCar against the competition, we need to address a few observables which would be of interest to our customers. 
-<br/>
 These variables would be:
 - cost
 - city
