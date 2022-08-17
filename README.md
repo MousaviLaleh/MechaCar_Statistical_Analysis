@@ -51,12 +51,12 @@ From the t-test to compare all lots against the population mean of 1,500 we can 
 ## Study Design: MechaCar vs Competition
 In order to compare the performance of the MechaCar against the competition, we need to address a few observables which would be of interest to our customers. 
 These variables would be:
-- cost
-- city
 - highway fuel efficiency
-- horsepower
 - safety rating
 - carbon waste output
+- cost
+- city
+- horsepower
 
 We will be testing whether or not the MechaCar has statistically significant differences in these metrics compared to competing models. <br/>
 The null hypothesis will be that these observables don't vary significantly from the competition, and the alternative hypothesis will be that the MechaCar does indeed vary significantly in these variables compared to the competition. <br/>
