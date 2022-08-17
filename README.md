@@ -38,13 +38,13 @@ From the t-test to compare all lots against the population mean of 1,500 we can 
 ![05.png](Images/05.png)
 
 <br/>
-- For lot 1, the mean was exactly 1,500 and so the p-value was exactly 1. This is a perfect match to the population mean and is therefore not statistically significant as there was no difference between the two.
-- For lot 2, the mean was 1,498.78 with a p-value of 0.06. Although low, this p-value is also not statistically different enough to reject the null hypothesis.
-- lot 3 had a mean of 1,496.14 and a the p-value of 0.04168. Therefore, unlike the other two lots, lot 3 is statistically different from the population mean since its p-value is below 0.05.
-
-
+- For lot1, the mean was exactly 1,500 and so the p-value was exactly 1. This is a perfect match to the population mean and is therefore not statistically significant as there was no difference between the two.
+- For lot2, the mean was 1,498.78 with a p-value of 0.06. Although low, this p-value is also not statistically different enough to reject the null hypothesis.
+- Lot3 had a mean of 1,496.14 and a the p-value of 0.04168. Therefore, unlike the other two lots, lot 3 is statistically different from the population mean since its p-value is below 0.05.
+<br/>
 ![06.png](Images/06.png)
 
+<br/> 
 
 
 
