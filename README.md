@@ -33,7 +33,7 @@ T-Test were performed to address questions about PSI as a whole and for each lot
 ![04.png](Images/04.png)
 <br/>
 
-From the t-test to compare all lots against the population mean of 1,500 we can see that the sample mean was 1498.78 and the p-value is 0.06028. Although the p-value is low, it is not low enough to reject the null hypothesis that the population's true mean is 1,500 because it did not fall below the significance level of 0.05 (see image below).
+From the t-test to compare all lots against the population mean of 1,500 we can see that the sample mean was 1498.78 and the p-value is 0.06028. Although the p-value is low, it is not low enough to reject the null hypothesis that the population's true mean is 1,500 because it did not fall below the significance level of 0.05 .
 <br/>
 ![05.png](Images/05.png)
 
@@ -42,7 +42,6 @@ From the t-test to compare all lots against the population mean of 1,500 we can 
 - For lot2, the mean was 1,498.78 with a p-value of 0.06. Although low, this p-value is also not statistically different enough to reject the null hypothesis. <br/>
 - Lot3 had a mean of 1,496.14 and a the p-value of 0.04168. Therefore, unlike the other two lots, lot 3 is statistically different from the population mean since its p-value is below 0.05.
 <br/>
-
 
 ![06.png](Images/06.png)
 
