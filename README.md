@@ -58,6 +58,7 @@ These variables would be:
 - horsepower
 - safety rating
 - carbon waste output
+
 We will be testing whether or not the MechaCar has statistically significant differences in these metrics compared to competing models. <br/>
 The null hypothesis will be that these observables don't vary significantly from the competition, and the alternative hypothesis will be that the MechaCar does indeed vary significantly in these variables compared to the competition. <br/>
 We will perform one-tailed t-tests in order to determine if the MechaCar has higher or lower observed values in these variables than the competition according to which direction the consumer would prefer. <br/>
