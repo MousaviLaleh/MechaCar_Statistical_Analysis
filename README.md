@@ -4,9 +4,10 @@
 This project involves the use of statistics and hypothesis testing to analyze a series of datasets from the automotive industry. All of the statistical analysis and visualizations is written in the R programming language.
 
 ## Resources
-Data Source :&nbsp; [MechaCar_mpg.csv](Resources/MechaCar_mpg.csv),&nbsp; [Suspension_Coil.csv](Resources/Suspension_Coil.csv)
+Software :&nbsp; [RStudio-2022.07.1-554](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download)
 <br/>
-Software :&nbsp; &nbsp; [RStudio-2022.07.1-554](https://www.rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download)
+Data Source :&nbsp; [MechaCar_mpg.csv](Resources/MechaCar_mpg.csv),&nbsp; [Suspension_Coil.csv](Resources/Suspension_Coil.csv)
+
 <br/>
 
 # Analysis
